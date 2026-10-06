@@ -4,7 +4,7 @@ Final-year Engineering Physics student at IIT Roorkee. I build LLM agents, and I
 
 #### Projects
 
-| | |
+| Project | What it is |
 |---|---|
 | [**CampusRide**](https://github.com/krishdef7/CampusRide) | LLM ride-booking agent, real-time PostGIS matching and demand forecasting. 99.4% on a 500-case held-out agent eval with 0 safety violations under prompt injection; p95 16.8 ms at ~196 req/s; forecast MAE 27.6% below seasonal-naive. |
 | [**ML Sentinel**](https://github.com/krishdef7/ml-sentinel) | Is input drift a good alarm for model degradation? Across 147 cross-state deployments (5.27M rows), KS drift fired on 102 of 103 healthy ones, while ATC caught 35 of 44 degraded ones with no false alarms. |
